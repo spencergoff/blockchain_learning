@@ -8,3 +8,8 @@ Sources(s):
 This is a basic smart contract written in Solidity that I deployed to the Goerli Test Network using the Remix IDE for Ethereum. It allows transactions that add and retrieve "people" objects to and from the blockchain. 
 
 Here's the last deployment I made: https://goerli.etherscan.io/address/0xc75ae43a4ccb4480c64431a26efdf49b02488968
+
+## StorageFactory.sol
+This is a solidity contract that allows users to create contracts based on SimpleStorage. Users can also set and retrieve properties from existing contracts.
+
+Here's the last deployment I made: https://goerli.etherscan.io/address/0xf747bF6EeBca46CdC302A8eE7a749Abf0965f29C
