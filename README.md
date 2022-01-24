@@ -18,3 +18,6 @@ Here's the last deployment I made: https://goerli.etherscan.io/address/0xf747bF6
 This is a solidity contract that allows people to fund it using an Ethereum-based wallet such as MetaMask. It also allows the creator to withdraw funds. 
 
 Here's the last deployment I made: https://goerli.etherscan.io/address/0x6d840EF95F32Dc4AD00aef40ae1E54F4A6C05eeC
+
+## deploy.py
+This is a Python script that deploys the SimpleStorage smart contract to the Goerli test network and makes calls to the deployed contract's functions. 
